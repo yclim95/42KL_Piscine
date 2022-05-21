@@ -1,6 +1,6 @@
 # 42KL Piscine
 
-> "No Teacher. No Classess. No Fees. 100% Practical Coding" - Software Engineering
+> ***"No Teacher. No Classess. No Fees. 100% Practical Coding" - Software Engineering***
 
 # Why 42 KL?
 1. Peer 2 Peer Learning
@@ -12,7 +12,7 @@
 
 ## Directory
 
-1. [Shell00](https://github.com/yclim95/42KL_Piscine/tree/master/C00)
+1. [Shell00](https://github.com/yclim95/42KL_Piscine/tree/master/Shell00)
 2. [C00](https://github.com/yclim95/42KL_Piscine/tree/master/C00)
 3. [C01](https://github.com/yclim95/42KL_Piscine/tree/master/C01)
 4. [C02](https://github.com/yclim95/42KL_Piscine/tree/master/C02)
