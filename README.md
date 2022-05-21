@@ -10,6 +10,8 @@
 5. Equal Opportunity
 6. Project-Based Learning
 
+![Myself @42KL](https://i.imgur.com/6to9ib1.jpg)
+
 ## Directory
 
 1. [Shell00](https://github.com/yclim95/42KL_Piscine/tree/master/Shell00)
