@@ -30,3 +30,8 @@
 14. [42 Practice Test - Level1](https://github.com/yclim95/42KL_Piscine/tree/master/42PracticeTest-Level1)
 15. [42 Practice Test - Level2](https://github.com/yclim95/42KL_Piscine/tree/master/42PracticeTest-Level2)
 16. [42 Practice Test - Level3](https://github.com/yclim95/42KL_Piscine/tree/master/42PracticeTest-Level3)
+
+
+## Resources to get prepared using your own PC
+1. [42 Norminette setup](https://github.com/42School/norminette)
+2. [42 Header Setup](https://github.com/42Paris/42header)
