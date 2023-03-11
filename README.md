@@ -37,7 +37,7 @@
 2. [42 Header Setup](https://github.com/42Paris/42header)
 
 
-## [Developer Roadmap Flowchart](https://roadmap.sh/) -  Thanks to @kamranahmedse | @developer-roadmap
+## [Developer Roadmap Flowchart](https://roadmap.sh/) -  Thanks to [@kamranahmedse](https://github.com/kamranahmedse) | @developer-roadmap
 1. Role-based
    1. [Frontend](https://roadmap.sh/frontend)
    2. [Backend](https://roadmap.sh/backend)
